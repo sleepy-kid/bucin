@@ -1,6 +1,6 @@
 export default [
-  "Teks pertama",
-  "Teks kedua",
-  "Teks ke - n",
+  "hai hilda",
+  "hehehe",
+  "lagi apa",
   "Aku sayang kamu!"
 ];
